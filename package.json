@@ -1,0 +1,17 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "A command-line tool for creating a web project template",
+  "main": "createFolder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raluca",
+  "license": "ISC",
+  "bin": {
+    "web-project": "./createFolder.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
