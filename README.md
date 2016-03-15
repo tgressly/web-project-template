@@ -8,6 +8,3 @@ node, npm and commader should be installed
 npm install -g
 web-project file-name
 ```
-
-
-
